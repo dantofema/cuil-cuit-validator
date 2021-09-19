@@ -100,7 +100,8 @@
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
   <component name="PhpUnit">
     <phpunit_settings>
-      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/phpunit.xml" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" phpunit_phar_path="$PROJECT_DIR$/vendor/bin/phpunit" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="dd309d56-aa8d-49a8-9cf7-117210ef554b" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="/opt/project/vendor/bin/phpunit" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </project>
