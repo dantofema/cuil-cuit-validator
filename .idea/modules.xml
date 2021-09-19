@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cuil-validator.iml" filepath="$PROJECT_DIR$/.idea/cuil-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cuil-cuit-validator.iml" filepath="$PROJECT_DIR$/.idea/cuil-cuit-validator.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,9 @@
 {
-    "name": "dantofema/cuil-validator",
-    "description": "Simple Cuil Validator",
+    "name": "dantofema/cuil-cuit-validator",
+    "description": "Simple Cuil - Cuit Validator",
+    "require": {
+        "php": ">=8.0"
+    },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },

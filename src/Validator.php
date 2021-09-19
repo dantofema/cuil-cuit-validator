@@ -2,7 +2,7 @@
 
 namespace Dantofema\CuilValidator;
 
-class Cuil
+class Validator
 {
 
     public static function validate (string $cuil): bool
